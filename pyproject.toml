@@ -1,0 +1,17 @@
+[tool.poetry]
+package-mode = false
+name = "newberry-utilities"
+version = "0.1.0"
+description = "Retrieval tools for City of Newberry, Florida Utilities"
+authors = ["Eric Hansen <ericzone.admin@gmail.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.12"
+python-dotenv = "^1.0.1"
+requests = "^2.32.3"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
