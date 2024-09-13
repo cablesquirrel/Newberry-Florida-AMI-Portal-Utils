@@ -1,4 +1,4 @@
-# 🐍 Newberry Utility Scripts
+# 🐍 Newberry Florida AMI Portal Utils
 
 Collection of Python scripts for retrieving utility data from Newberry, Florida city utilities.
 
