@@ -9,7 +9,8 @@ Used to retrieve a list of meters on the user's account
 ### Regular Mode (JSON Output)
 
 ```shell
-python3 get_meter_listing.py
+# From project root
+python3 scripts/get_meter_listing.py
 ```
 
 Output
@@ -34,7 +35,8 @@ Output
 ### Verbose Logging Mode (For Debugging)
 
 ```shell
-python3 get_meter_listing.py -v
+# From project root
+python3 scripts/get_meter_listing.py -v
 ```
 
 Output

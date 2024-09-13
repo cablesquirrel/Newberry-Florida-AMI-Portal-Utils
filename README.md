@@ -67,4 +67,4 @@ Below is a list of the available scripts.
 
 Visit each script's page for details on usage.
 
-- [get_meter_listing.py](./get_meter_listing.md)
+- [get_meter_listing.py](./docs/get_meter_listing.md)
