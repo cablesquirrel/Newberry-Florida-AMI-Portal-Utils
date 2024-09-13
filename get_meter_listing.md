@@ -52,7 +52,7 @@ Output
         - Found 1 meter(s) of type 'electric' on the account.
                 - Meter ID: 87654321
                 - Meter Address: 1234 Easy St
-[sensus-analytics.com] Getting all gas meters on account 3614...
+[sensus-analytics.com] Getting all gas meters on account 12345...
         - No meters of type 'gas' found on the account.
 
 JSON Output:
