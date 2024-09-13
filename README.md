@@ -1,4 +1,8 @@
-# 🐍 Python utilities for retrieving utility data for Newberry, Florida city utilities
+# 🐍 Newberry Utility Scripts
+
+Collection of Python scripts for retrieving utility data from Newberry, Florida city utilities.
+
+![image](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
 
 ## 📝 Description
 
